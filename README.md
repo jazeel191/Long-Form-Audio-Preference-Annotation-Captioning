@@ -10,7 +10,7 @@ Tag accurate metadata for each audio file
 Maintain quality assurance and consistency
 
  Annotation Workflow
-1️⃣ Long-Form Listening
+1️⃣ Long-Form Listening 
 Full-length audio tracks (3–8 minutes)
 Focus on:
 Musical structure
